@@ -1,0 +1,3 @@
+# Project exclude paths
+/page-factory/target/
+/page-object/target/
