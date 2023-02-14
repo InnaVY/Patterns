@@ -12,6 +12,7 @@
         <module>page-object</module>
         <module>page-factory</module>
         <module>selenide-object</module>
+        <module>factory-browsers</module>
     </modules>
 
 

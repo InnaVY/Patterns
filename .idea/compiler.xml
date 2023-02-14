@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="page-factory" />
         <module name="selenide-object" />
+        <module name="factory-browsers" />
         <module name="page-object" />
       </profile>
     </annotationProcessing>
